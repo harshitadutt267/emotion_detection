@@ -1,0 +1,30 @@
+{
+    "music": {
+      "happy": ["https://www.youtube.com/watch?v=XXXX", "https://www.youtube.com/watch?v=YYYY"],
+      "sad": ["https://www.youtube.com/watch?v=ZZZZ", "https://www.youtube.com/watch?v=AAAA"],
+      "angry": ["https://www.youtube.com/watch?v=BBBB", "https://www.youtube.com/watch?v=CCCC"],
+      "surprise": ["https://www.youtube.com/watch?v=DDDD", "https://www.youtube.com/watch?v=EEEE"],
+      "fear": ["https://www.youtube.com/watch?v=FFFF", "https://www.youtube.com/watch?v=GGGG"],
+      "disgust": ["https://www.youtube.com/watch?v=HHHH", "https://www.youtube.com/watch?v=IIII"],
+      "neutral": ["https://www.youtube.com/watch?v=JJJJ", "https://www.youtube.com/watch?v=KKKK"]
+    },
+    "jokes": {
+      "happy": ["Why don't scientists trust atoms? Because they make up everything!"],
+      "sad": ["Why was the math book sad? It had too many problems."],
+      "angry": ["Why don’t some couples go to the gym? Because some relationships don’t work out."],
+      "surprise": ["Why did the scarecrow win an award? Because he was outstanding in his field!"],
+      "fear": ["Why don’t skeletons fight each other? They don’t have the guts."],
+      "disgust": ["How do you organize a space party? You planet."],
+      "neutral": ["Why did the chicken join a band? Because it had the drumsticks."]
+    },
+    "videos": {
+      "happy": ["https://www.youtube.com/watch?v=LLLL", "https://www.youtube.com/watch?v=MMMM"],
+      "sad": ["https://www.youtube.com/watch?v=NNNN", "https://www.youtube.com/watch?v=OOOO"],
+      "angry": ["https://www.youtube.com/watch?v=PPPP", "https://www.youtube.com/watch?v=QQQQ"],
+      "surprise": ["https://www.youtube.com/watch?v=RRRR", "https://www.youtube.com/watch?v=SSSS"],
+      "fear": ["https://www.youtube.com/watch?v=TTTT", "https://www.youtube.com/watch?v=UUUU"],
+      "disgust": ["https://www.youtube.com/watch?v=VVVV", "https://www.youtube.com/watch?v=WWWW"],
+      "neutral": ["https://www.youtube.com/watch?v=XXXX", "https://www.youtube.com/watch?v=YYYY"]
+    }
+  }
+  
